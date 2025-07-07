@@ -1,25 +1,24 @@
 ---
 name: Support ticket template
 about: Template to help user's with filing support tickets.
-title: "[SUPPORT]"
+title: "[SUPPORT] "
 labels: ''
 assignees: ''
 
 ---
 
-**Issue:**<br>
-A clear and concise description of what the issue is.<br>
+**Issue:**
+A clear and concise description of what the issue is.
 
-**Goal:**<br>
-A clear and concise description of what you are trying to achieve.<br>
+**Goal:**
+A clear and concise description of what you are trying to achieve.
 
-**Media:**<br>
-If applicable, add photos and/or videos to help explain your problem.<br>
+**Media:**
+If applicable, add photos and/or videos to help explain your problem.
 
-**Device:**<br>
+**Device:**
+ - Device: [e.g. N90AP]
+ - OS: [e.g. 9B3176n]
 
-- Device: [e.g. N90AP]<br>
-- OS: [e.g. 9B3176n]<br>
-
-**Additional context:**<br>
+**Additional context:**
 Add any other context about the problem here.
